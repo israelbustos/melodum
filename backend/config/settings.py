@@ -46,6 +46,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'apps.posts',
+    'apps.users',
+    'apps.items',
+    'apps.order',
+    'apps.cart',
     'cloudinary',
     'django_filters',
 ]
